@@ -1,49 +1,7 @@
-### Caffeine Specifications & Measurements
+### Caffeine Specifications & Measurements to design a new Robot Tower, a new Robot Stand, and a new Main Cover
 
----
 
-#### 1. **Motor**
-
-**a. Existing Motor and Mounting Style:**
-- **Images:** Capture the motor's current mounting to the wheels and frame for better understanding of the setup. This will help determine whether modifications to the motor positioning or new placements for gearboxes or larger motors are feasible.
-
-**b. Relevant Dimensions:**
-- **Length:** Maximum allowable length of the motor is **40 inches**.
-- **Diameter:** Maximum allowable diameter of the motor is **6 inches**.
-
-**c. Motor Model:** 
-- Please provide the motor's model number for reference.
-
-**d. Mounting Hardware Information:**
-- Any data regarding the screws, bolts, or other hardware used to attach the motor to the frame would be helpful.
-
-**e. Video (if possible):** 
-- A video showing the motor in action will help assess performance and compatibility for modifications.
-
----
-
-#### 2. **Weight**
-
-- **General Weight of Caffeine:** Although difficult, an approximate weight measurement would help plan modifications, especially when considering added components like gearboxes or waterproofing.
-
----
-
-#### 3. **Important Dimensions (Payload & Electronics Box Location)**
-
-- Any dimensions relevant to where the **payload** and **electronics box** will be placed. These will guide the layout and positioning of components to avoid interference.
-
----
-
-#### 4. **Waterproofing Materials**
-
-- Measure the available **acrylic scrap** for waterproofing:
-  - Total quantity of material.
-  - Dimensions of each scrap piece.
-- This will determine if additional materials are needed for waterproofing purposes.
-
----
-
-#### 5. **Wheel Model & Specifications**
+ **Wheel Model & Specifications**
 
 **a. Wheel Model:**
 - **Model:** Kenda **4.1 / 3.50 / 4**
@@ -66,7 +24,7 @@
 
 ---
 
-#### 6. **Critical Dimensions (Mounting Box & Suspension)**
+####  **Critical Dimensions (Mounting Box & Suspension)**
 
 - **Mounting box:** 1’ 1/8” (width) x 4 1/8” (height). 
 - **Total height with spacers:** Approx. 5 inches.
@@ -82,4 +40,18 @@ This comprehensive list will ensure the team has all necessary data to move forw
 ![image](https://github.com/user-attachments/assets/1ef5d50e-ad5f-4c51-bbb5-a333dfc0b923)
 
 ![image](https://github.com/user-attachments/assets/f9767df1-5455-4527-abb6-76d5904b9e8b)
+
+
+Product:
+
+Stand:
+![Stand](https://github.com/user-attachments/assets/468fbd64-fc86-4552-8709-1db690c42082)
+
+Tower:
+![Case](https://github.com/user-attachments/assets/5105875d-5f1f-4cc2-9bdd-8e96392efe83)
+
+Cover:
+![Case](https://github.com/user-attachments/assets/77dad682-3361-4744-a843-5383fceb8bd0)
+
+
 
