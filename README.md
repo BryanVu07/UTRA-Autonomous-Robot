@@ -50,8 +50,8 @@ Stand:
 Tower:
 ![Case](https://github.com/user-attachments/assets/5105875d-5f1f-4cc2-9bdd-8e96392efe83)
 
-Cover:
-![Case](https://github.com/user-attachments/assets/77dad682-3361-4744-a843-5383fceb8bd0)
+Cover: 
+
 
 
 
